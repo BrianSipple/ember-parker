@@ -1,5 +1,7 @@
 # Ember-parker
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/BrianSipple/ember-parker.svg)](https://greenkeeper.io/)
+
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
